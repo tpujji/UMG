@@ -1,0 +1,10 @@
+C:\Users\Teddy\Desktop\UMG\GRMApp\GRMApp.Test\bin\Debug\GRMApp.Test.dll
+C:\Users\Teddy\Desktop\UMG\GRMApp\GRMApp.Test\bin\Debug\GRMApp.Test.pdb
+C:\Users\Teddy\Desktop\UMG\GRMApp\GRMApp.Test\bin\Debug\GRMApp.Platform.dll
+C:\Users\Teddy\Desktop\UMG\GRMApp\GRMApp.Test\bin\Debug\GRMApp.Platform.pdb
+C:\Users\Teddy\Desktop\UMG\GRMApp\GRMApp.Test\obj\Debug\GRMApp.Test.csprojResolveAssemblyReference.cache
+C:\Users\Teddy\Desktop\UMG\GRMApp\GRMApp.Test\obj\Debug\GRMApp.Test.dll
+C:\Users\Teddy\Desktop\UMG\GRMApp\GRMApp.Test\obj\Debug\GRMApp.Test.pdb
+C:\Users\Teddy\Desktop\UMG\GRMApp\GRMApp.Test\bin\Debug\GRMApp.Test.dll.config
+C:\Users\Teddy\Desktop\UMG\GRMApp\GRMApp.Test\bin\Debug\EntityFramework.dll
+C:\Users\Teddy\Desktop\UMG\GRMApp\GRMApp.Test\bin\Debug\EntityFramework.xml

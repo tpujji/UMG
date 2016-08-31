@@ -1,0 +1,8 @@
+C:\Users\Teddy\Desktop\UMG\GRMApp\GRMApp.Console\bin\Debug\GRMApp.Console.exe.config
+C:\Users\Teddy\Desktop\UMG\GRMApp\GRMApp.Console\bin\Debug\GRMApp.Console.exe
+C:\Users\Teddy\Desktop\UMG\GRMApp\GRMApp.Console\bin\Debug\GRMApp.Console.pdb
+C:\Users\Teddy\Desktop\UMG\GRMApp\GRMApp.Console\bin\Debug\GRMApp.Platform.dll
+C:\Users\Teddy\Desktop\UMG\GRMApp\GRMApp.Console\bin\Debug\GRMApp.Platform.pdb
+C:\Users\Teddy\Desktop\UMG\GRMApp\GRMApp.Console\obj\Debug\GRMApp.Console.csprojResolveAssemblyReference.cache
+C:\Users\Teddy\Desktop\UMG\GRMApp\GRMApp.Console\obj\Debug\GRMApp.Console.exe
+C:\Users\Teddy\Desktop\UMG\GRMApp\GRMApp.Console\obj\Debug\GRMApp.Console.pdb

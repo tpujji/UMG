@@ -1,0 +1,7 @@
+C:\Users\Teddy\Desktop\UMG\GRMApp\GRMApp\bin\Debug\GRMApp.exe.config
+C:\Users\Teddy\Desktop\UMG\GRMApp\GRMApp\bin\Debug\GRMApp.exe
+C:\Users\Teddy\Desktop\UMG\GRMApp\GRMApp\bin\Debug\GRMApp.pdb
+C:\Users\Teddy\Desktop\UMG\GRMApp\GRMApp\obj\Debug\GRMApp.Properties.Resources.resources
+C:\Users\Teddy\Desktop\UMG\GRMApp\GRMApp\obj\Debug\GRMApp.csproj.GenerateResource.Cache
+C:\Users\Teddy\Desktop\UMG\GRMApp\GRMApp\obj\Debug\GRMApp.exe
+C:\Users\Teddy\Desktop\UMG\GRMApp\GRMApp\obj\Debug\GRMApp.pdb
